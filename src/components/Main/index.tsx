@@ -1,7 +1,9 @@
+import { Wrapper } from "./styles";
+
 const Main = () => (
-  <main>
-    <h1>React Avançado</h1>
-  </main>
+  <Wrapper>
+    <h1>NextJS Boilerplate</h1>
+  </Wrapper>
 );
 
 export default Main;
